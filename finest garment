@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Narrow Jumbotron Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/editor.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="narrow-jumbotron.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="header clearfix" style="text-align: center;"><img src="https://ozzagroup.github.io/images/logo.svg" style="" width="128" height="128"><div class="container" style=""></div><h1 style="">Konveksi Bandung<br></h1><div class="form-group" style=""><label></label>Make Your Cloth<textarea class="form-control" style="text-align: center; height: 50px;"></textarea></div>
+        <nav>
+          <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+              <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+          </ul>
+        </nav>
+        <h3 class="text-muted"><br></h3>
+      </div>
+
+      <div class="jumbotron">
+        <h1 class="display-3" spellcheckker="false" contenteditable="true">Welcome to Konveksi Bandung<br></h1>
+        <p class="lead">Konveksi di Bandung yang memberikan kebebasan kepada client / pelanggan menentukan desain, warna dan bahan sesuai dengan budget. Menawarkan solusi jasa produksi berbagai garment seperti kaos, polo, kemeja, jaket, jersey, almamater, seragam, wearpack, rompi dan produk custom lainnya untuk berbagai kalangan seperti perusahaan, komunitas, event, sekolah, kampus atau distro.<br></p>
+        
+      </div>
+
+      <div class="row marketing">
+        <div class="col-lg-6">
+          <h4>About Our Company<br></h4>
+          <p><hr style="">Finest Garment merupakan konveksi yang berpusat di Surabaya dan sudah memiliki beberapa kantor cabang di kota-kota besar seperti Jakarta, Bandung, Bali, dan Malang. Kami senantiasa memberikan kebebasan kepada client/pelanggan menentukan desain, warna dan bahan sesuai dengan budget.<br>Kami juga menawarkan solusi jasa produksi berbagai garment seperti kaos, polo, kemeja, jaket, jersey, almamater, seragam, wearpack, rompi dan produk custom lainnya untuk berbagai kalangan seperti perusahaan, komunitas, event, sekolah, kampus atau distro.<br>Official Website: <a href="#"><u>https://bandung.finest-garment.com</u></a><br></p>
+
+          <h4>Contact</h4>
+          <hr style=""><p>BANDUNG (BRANCH)<br>Jl. Vijayakusuma XVII No. 47D, Cilengkrang, Bandung, Jawa Barat<br>0822 – 6275 – 4342<br><a href="#">bandung@finest-garment.com</a></p>
+
+          
+          
+        </div>
+
+        <div class="col-lg-6">
+          
+          
+
+          
+          
+
+          
+          
+        </div>
+      </div>
+
+      <footer class="footer">
+        <p>© Company 2017</p>
+      </footer>
+
+    </div> <!-- /container -->
+  
+
+</body>
+</html>
